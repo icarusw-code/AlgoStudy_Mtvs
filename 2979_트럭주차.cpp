@@ -17,6 +17,7 @@ int main()
             arr[j] += 1;
         }
     }
+
     for(int i = 1; i <= 100; i ++)
     {
         if(arr[i] == 1) ans += arr[i] * a;
