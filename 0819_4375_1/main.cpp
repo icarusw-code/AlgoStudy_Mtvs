@@ -10,7 +10,7 @@ int main()
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL); cout.tie(NULL);
 	// 2와 5로 나누어 떨어지지 않는 정수 n(1 ≤ n ≤ 10000)가 주어졌을 때
-    // 1로만 이루어진 n의 배수를 찾아 가장 작은 숫자의 자리수를 출력하고 싶다.
+	// 1로만 이루어진 n의 배수를 찾아 가장 작은 숫자의 자리수를 출력하고 싶다.
     
 	while (cin >> n)
 	{

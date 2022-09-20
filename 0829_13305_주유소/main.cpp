@@ -16,7 +16,6 @@ int main()
 	// 1. 입력받는다.
 	cin >> n;
 
-	// int 일 때, 58점
 	vector<long long> distance(n - 1);
 	vector<long long> cost(n);
 
